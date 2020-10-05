@@ -1,4 +1,4 @@
-loopercli
+looper>=1.2.1
 MACS2
 numpy
 pararead
