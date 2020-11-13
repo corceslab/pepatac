@@ -21,7 +21,6 @@ tools:  # absolute paths to required tools
   # optional tools
   bwa: bwa
   fseq: fseq
-  genrich: Genrich
   hmmratac: ${HMMRATAC}
   homer_findpeaks: findPeaks
   homer_motif: findMotifsGenome.pl
