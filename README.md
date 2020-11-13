@@ -1,3 +1,6 @@
+This is a fork from pepatac on 11/13/2020
+This repository cuts out many of the steps of the pepatac pipeline to create a streamlined qc pipeline that should only be used for obtaining QC stats for low-depth sequencing runs.
+
 <img src="docs/img/pepatac_logo_white.svg" alt="pepatac logo" height="70" align="left"/>
 
 <br></br>
